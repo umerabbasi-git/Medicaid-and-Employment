@@ -20,7 +20,7 @@ This project focuses on analyzing the impact of Medicaid expansion on employment
 
 To reproduce the analysis and explore the findings:
 
-1. Clone this repository: `git clone https://github.com/umerabbasi-git/Medicaid-Expansion-Employment-Outcomes.git`
+1. Clone this repository: `git clone https://github.com/umerabbasi-git/Medicaid-and-Employment.git`
 2. Install Stata and ensure it is added to your system's PATH.
 3. Open the [Stata script](Abbasi_U_Medicaid_Expansion.do) and execute it to run the regression analysis.
 4. Refer to the [.pdf](R_Abbasi_U_Medicaid_Expansion_Project.pdf) for a comprehensive explanation of the project methodology and findings.
