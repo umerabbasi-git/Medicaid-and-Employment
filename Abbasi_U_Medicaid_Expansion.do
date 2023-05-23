@@ -6,7 +6,7 @@ log using p_code.log, replace
 clear all
 
 * Change directories
-cd "\\citrix-ps2.ads.utm.utoronto.ca\StudData$\abbasium\Documents\ECO344H5"
+cd " "
 
 * Read occupation data
 use "cps_00004"
