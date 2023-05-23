@@ -12,7 +12,7 @@ This project focuses on analyzing the impact of Medicaid expansion on employment
 
 ## Project Structure
 
-- `data`: Contains the CPS (IPUMS) dataset used for the analysis (too large to upload).
+- `.dta`: Contains the CPS (IPUMS) dataset used for the analysis (too large to upload).
 - `.do`: Includes the Stata [.do script](Abbasi_U_Medicaid_Expansion.do) for the regression analysis.
 - `.pdf`: Provides detailed [documentation](R_Abbasi_U_Medicaid_Expansion_Project.pdf) explaining the project methodology and findings.
 
